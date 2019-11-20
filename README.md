@@ -5,7 +5,7 @@ My first SwiftUI App
 ### Making your life easier
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/46055179/62839798-d96b7c00-bca0-11e9-9f84-9785490ab600.jpeg" width="250">
+<img src="https://user-images.githubusercontent.com/46055179/69269081-b75f8f00-0be9-11ea-8c0e-4e6078da642d.PNG" width="250">
 </p>
 
 
