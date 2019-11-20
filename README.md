@@ -1,7 +1,11 @@
 # Dice-Game
 My first SwiftUI App
 
-## A SwiftUI
+## A SwiftUI App
+
+
+
+
 ### Making your life easier
 
 <p align="left">
